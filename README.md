@@ -6,7 +6,7 @@ A GitHub Actions workflow that lets you download files into your repository just
 
  
 ---
-
+ 
 ## ⚙️ Setup
 
 0. Fork this repo
@@ -64,7 +64,7 @@ download: https://example.com/a.zip https://example.com/b.pdf https://example.co
 Downloads all files and bundles them into one timestamped `.zip` archive saved to `downloads/`.
 
 ```
-download-zip: URL1 URL2 URL3
+download-zip: https://youtu.be/WwBBNmxKGck?si=DldYkac7macQx6c3.zip
 ```
 
 **Examples:**
